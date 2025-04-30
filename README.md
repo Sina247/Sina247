@@ -41,7 +41,7 @@
 
 - 📧 Email: sina247re@gmail.com
 - 🌐 Portfolio: [my-portfolio-link.com] [add link soon]
-- 💼 Linkedin: [https://www.linkedin.com/in/sina247/] [add link soon]
+- 💼 Linkedin: [https://www.linkedin.com/in/sina247/]
 
 ---
 
