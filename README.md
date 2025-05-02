@@ -37,12 +37,6 @@
 
 ---
 
-### 📈 LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=Sina247)
-
----
-
 ### 📫 Connect with Me
 
 - 📧 Email: sina247re@gmail.com
