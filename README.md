@@ -37,12 +37,9 @@
 
 ---
 
-## LeetCode Profile
+### 📈 LeetCode Stats
 
-You can view my LeetCode profile and see my progress [https://leetcode.com/Sina247/]
-
-- **Rating:** `your_rating`
-- **Problems Solved:** `number_of_solved_problems`
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=Sina247)
 
 ---
 
