@@ -37,6 +37,15 @@
 
 ---
 
+## LeetCode Profile
+
+You can view my LeetCode profile and see my progress [here](https://leetcode.com/Sina247/).
+
+- **Rating:** `your_rating`
+- **Problems Solved:** `number_of_solved_problems`
+
+---
+
 ### 📫 Connect with Me
 
 - 📧 Email: sina247re@gmail.com
