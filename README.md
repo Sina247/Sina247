@@ -39,14 +39,14 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: sina247re@gmail.com
-- 🌐 Portfolio: https://github.com/Sina247/portfolio [live soon]
-- 💼 Linkedin: https://www.linkedin.com/in/sina247/
+- 📧 Email : sina247re@gmail.com
+- 🌐 Portfolio : https://github.com/Sina247/portfolio [live soon]
+- 💼 Linkedin : https://www.linkedin.com/in/sina247/
 
 ---
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love turning complex designs into smooth and interactive user experiences!
+- 😄 Pronouns : He/Him
+- ⚡ Fun fact : I love turning complex designs into smooth and interactive user experiences!
 
 ---
 
