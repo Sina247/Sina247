@@ -37,6 +37,9 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true)
+
+
 ### 📫 Connect with Me
 
 - 📧 Email: sina247re@gmail.com
