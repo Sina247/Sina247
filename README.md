@@ -40,7 +40,7 @@
 ### 📫 Connect with Me
 
 - 📧 Email: sina247re@gmail.com
-- 🌐 Portfolio: The link will be added soon
+- 🌐 Portfolio: https://github.com/Sina247/portfolio [live soon]
 - 💼 Linkedin: https://www.linkedin.com/in/sina247/
 
 ---
