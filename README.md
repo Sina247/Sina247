@@ -37,7 +37,7 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Sina247&color=blue)
 
 ---
 
