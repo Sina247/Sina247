@@ -37,10 +37,6 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=Sina247&color=blue)
-
----
-
 ### 📫 Connect with Me
 
 - 📧 Email : sina247re@gmail.com
