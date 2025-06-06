@@ -37,6 +37,12 @@
 
 ---
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sina247?theme=auto&font=Kanit&ext=contest)
+
+---
+
 ### 📫 Connect with Me
 
 - 📧 Email : sina247re@gmail.com
