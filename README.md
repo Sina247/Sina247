@@ -37,7 +37,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
+### 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sina247?theme=tokyonight&font=Kanit&ext=contest)
 
