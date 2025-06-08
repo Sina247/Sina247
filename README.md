@@ -47,7 +47,7 @@
 
 - 📧 Email : sina247re@gmail.com
 - 🌐 Portfolio : https://github.com/Sina247/portfolio [It will be online soon]
-- 💼 Linkedin : https://www.linkedin.com/in/sina247/
+- 💼 Linkedin : https://www.linkedin.com/in/sina247/ [It is limited from Linkedian; it will be OK soon]  
 
 ---
 
