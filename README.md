@@ -6,12 +6,12 @@
 
 ### 🚀 About Me
 
-- 👀 I’m interested in building modern, responsive, and user-friendly web applications.
-- 💻 Passionate about creating clean, interactive, and accessible websites and web apps.
-- 🎨 Experienced in **HTML5**, **CSS3**, **Bootstrap**, **JavaScript**, **React.js**, **Next.js**, **Tailwind CSS**, **Redux Toolkit**, **Git**, and **GitHub**.
+- ⚙️ I’m interested in building modern, responsive, and user-friendly web applications.
+- 🤩 Passionate about creating clean, interactive, and accessible websites and web apps.
+- 💻 Experienced in **HTML5**, **CSS3**, **Bootstrap**, **JavaScript**, **React.js**, **Next.js**, **Tailwind CSS**, **Redux Toolkit**, **Git**, and **GitHub**.
 - 🌱 I’m currently learning advanced **React patterns**, **Web Animations** and **Next.js best practices**.
-- 💞️ I’m eager to collaborate on exciting front-end projects, open-source UI libraries, and creative web applications.
-- 🎨 I love clean code and beautiful design, and enjoy transforming complex ideas into smooth, interactive user experiences.
+- 💞 I’m eager to collaborate on exciting front-end projects, open-source UI libraries, and creative web applications.
+- ✨ I love clean code and beautiful design, and enjoy transforming complex ideas into smooth, interactive user experiences.
 - 🔍 Always seeking new challenges, growth opportunities, and valuable feedback.
 
 ---
@@ -53,11 +53,11 @@
 
 ### ⚡ Fun Facts
 
-- 🧠 I see the frontend as a playground where logic meets creativity.
-- 🖌️ I’m obsessed with pixel-perfect design and micro-interactions.
-- 🎮 I also love video games and designing game-inspired UI elements.
-- ⚡ I love turning complex designs into smooth and interactive user experiences!
+- 🧠 I view frontend development as a creative playground where logic and imagination converge.
+- 🖌️ I’m passionate about pixel-perfect designs and crafting seamless micro-interactions that delight users.
+- 🎮 Video games inspire me, fueling my love for designing immersive, game-inspired UI elements.
+- ⚡ I thrive on transforming complex designs into intuitive, smooth, and interactive user experiences.
 
 ---
 
->  🗨️ *"Great code isn’t just written - it’s crafted like art."*
+>  🗨️ *"Great code isn’t just written - it’s crafted like art"*
