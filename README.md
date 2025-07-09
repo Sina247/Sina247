@@ -60,5 +60,4 @@
 
 ---
 
-> "Code is not just code, it's art."
-> > 🗨️ *"Great code is not written — it's crafted."*
+>  🗨️ *"Great code isn’t just written - it’s crafted like art."*
