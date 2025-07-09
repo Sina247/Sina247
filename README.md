@@ -45,15 +45,24 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email : sina247re@gmail.com
-- 🌐 Portfolio : https://github.com/Sina247/portfolio [It will be online soon]
-- 💼 Linkedin : https://www.linkedin.com/in/sina247/ [It is limited from Linkedian; it will be OK soon]  
+- 📧 Email : sina247re@gmail.com (mailto:sina247re@gmail.com)
+- 🌐 Portfolio : https://github.com/Sina247/portfolio
+- 💼 Linkedin : https://www.linkedin.com/in/sina247/
 
 ---
 
 - 😄 Pronouns : He/Him
-- ⚡ Fun fact : I love turning complex designs into smooth and interactive user experiences!
+
+---
+
+### ⚡ Fun Facts
+
+- 🧠 I see the frontend as a playground where logic meets creativity.
+- 🖌️ I’m obsessed with pixel-perfect design and micro-interactions.
+- 🎮 I also love video games and designing game-inspired UI elements.
+- ⚡ I love turning complex designs into smooth and interactive user experiences!
 
 ---
 
 > "Code is not just code, it's art."
+> > 🗨️ *"Great code is not written — it's crafted."*
