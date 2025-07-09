@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sina Ahmadi
 
-## 👩‍💻 Front End Developer | UI/UX Lover | Creative Coder
+## 👩‍💻 Front End Developer | UI/UX Enthusiast | Creative Coder
 
 ---
 
@@ -13,6 +13,14 @@
 - 💞️ I’m looking to collaborate on exciting front-end projects, open-source UI libraries, and creative websites.
 - ✨ I love clean code, beautiful design, and smooth user experience.
 - 🎯 Always seeking new challenges and growth opportunities.
+
+------------
+
+- 💻 Experienced in **HTML5**, **CSS3**, **Bootstrap**, **JavaScript**, **React.js**, **Next.js**, **Tailwind CSS**, **Redux Toolkit**, **Git**, and **GitHub**.
+- 📚 Currently learning advanced **React patterns**, **web animations**, and **Next.js best practices**.
+- 🤝 Open to collaboration on front-end projects, open-source UI libraries, and creative product ideas.
+- 🎨 I enjoy transforming complex designs into smooth, interactive interfaces.
+- 🔍 Always seeking new challenges, feedback, and growth.
 
 ---
 
