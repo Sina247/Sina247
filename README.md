@@ -9,7 +9,7 @@
 - 👀 I’m interested in building modern, responsive, and user-friendly web applications.
 - 💻 Passionate about creating clean, interactive, and accessible websites and web apps.
 - 🎨 Experienced in **HTML5**, **CSS3**, **Bootstrap**, **JavaScript**, **React.js**, **Next.js**, **Tailwind CSS**, **Redux Toolkit**, **Git**, and **GitHub**.
-- 🌱 I’m currently learning advanced **React patterns**, **Web Animations**, and **Next.js best practices**.
+- 🌱 I’m currently learning advanced **React patterns**, **Web Animations** and **Next.js best practices**.
 - 💞️ I’m eager to collaborate on exciting front-end projects, open-source UI libraries, and creative web applications.
 - 🎨 I love clean code and beautiful design, and enjoy transforming complex ideas into smooth, interactive user experiences.
 - 🔍 Always seeking new challenges, growth opportunities, and valuable feedback.
