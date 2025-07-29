@@ -16,7 +16,7 @@
 
 ---
 
-💡 **Feel free to explore my projects, contribute, or connect - let’s build something amazing together**
+💡 **Feel free to explore my projects, contribute or connect - let’s build something amazing together**
 
 ---
 
