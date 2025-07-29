@@ -41,53 +41,6 @@
 
 ---
 
-
-
-
-
-
-
-### 📊 GitHub Activity Graph
-
-#### ⚡ Theme: Default
-![Default](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=default)
-
-#### 🌌 Theme: Github
-![Github](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=github)
-
-#### 🌈 Theme: Xcode
-![Xcode](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=xcode)
-
-#### 🐉 Theme: Dracula
-![Dracula](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=dracula)
-
-#### 🐋 Theme: GitHub Dark
-![Dark](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=github-dark)
-
-#### 🔥 Theme: High Contrast
-![High Contrast](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=high-contrast)
-
-#### ☁️ Theme: Transparent
-![Transparent](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=transparent)
-
-#### 🌿 Theme: Tokyonight
-![Tokyonight](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=tokyonight)
-
-#### 🍃 Theme: Green
-![Green](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=green)
-
-#### 🧪 Theme: Chartreuse Dark
-![Chartreuse Dark](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=chartreuse-dark)
-
-#### 📀 Theme: Redical
-![Redical](https://github-readme-activity-graph.vercel.app/graph?username=Sina247&theme=redical)
-
-
-
-
-
-
-
 ### 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sina247?theme=catppuccinMocha&font=Kanit&ext=contest)
