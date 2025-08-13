@@ -8,7 +8,7 @@
 
 - ⚙️ I’m interested in building modern, responsive and user friendly web applications.
 - 🤩 Passionate about creating clean, interactive, accessible websites and web apps.
-- 💻 Experienced in **HTML5**, **CSS3**, **Bootstrap**, **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, **Redux Toolkit**, **Git** and **GitHub**.
+- 💻 Experienced in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, **Redux Toolkit**, **Git** and **GitHub**.
 - 🌱 I’m currently learning advanced **React patterns**, **Web Animations** and **Next.js best practices**.
 - 💞 I’m eager to collaborate on exciting front end projects, open source UI libraries and creative web applications.
 - ✨ I love clean code, beautiful design, enjoy transforming complex ideas into smooth and interactive user experiences.
@@ -22,8 +22,8 @@
 
 ### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
