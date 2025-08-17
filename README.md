@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sina Ahmadiy
+# 👋 Hi, I'm Sina Ahmadi
 
 ## 👩‍💻 Front End Developer | UI/UX Enthusiast | Creative Coder
 
