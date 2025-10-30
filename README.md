@@ -66,8 +66,8 @@
 ### ⚡ Fun Facts
 
 - 🧠 I view frontend development as a creative playground where logic and imagination converge
-- 🎮 Video games inspire me, fueling my love for designing immersive and game inspired UI elements
 - ⚡ I thrive on transforming complex designs into intuitive, smooth and interactive user experiences
+- 🎮 Video games inspire me, fueling my love for designing immersive and game inspired UI elements
 - 🖌️ I’m passionate about pixel perfect designs and crafting seamless micro interactions that delight users
 
 ---
