@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Sina Ahmadi
 
 ## 👩‍💻 Front End Developer | UI/UX Enthusiast | Creative Coder
-
 ---
 
 ### 🚀 About Me
