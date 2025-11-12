@@ -57,9 +57,8 @@
 ### 📫 Connect with Me
 
 - 📧 Email : sina247re@gmail.com
-- 💼 Linkedin : https://www.linkedin.com/in/sina247/
-- 🌐 Portfolio : https://github.com/Sina247/portfolio
-
+- 🌐 Portfolio : Not publicly accessible at the moment - https://github.com/Sina247/portfolio
+- 💼 Linkedin : Account temporarily unavailable due to platform limitations - https://www.linkedin.com/in/sina247/
 ---
 
 ### ⚡ Fun Facts
