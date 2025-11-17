@@ -40,6 +40,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -60,13 +61,14 @@
 - 📧 Email : sina247re@gmail.com
 - 🌐 Portfolio : Not publicly accessible at the moment - https://github.com/Sina247/portfolio
 - 💼 Linkedin : Account temporarily unavailable due to platform limitations - https://www.linkedin.com/in/sina247/
+
 ---
 
 ### ⚡ Fun Facts
 
 - 🧠 I view frontend development as a creative playground where logic and imagination converge
-- ⚡ I thrive on transforming complex designs into intuitive, smooth and interactive user experiences
 - 🎮 Video games inspire me, fueling my love for designing immersive and game inspired UI elements
+- ⚡ I thrive on transforming complex designs into intuitive, smooth and interactive user experiences
 - 🖌️ I’m passionate about pixel perfect designs and crafting seamless micro interactions that delight users
 
 ---
