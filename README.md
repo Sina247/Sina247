@@ -33,13 +33,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
@@ -53,14 +47,6 @@
 ### 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sina247?theme=catppuccinMocha&font=Kanit&ext=contest)
-
----
-
-### 📫 Connect with Me
-
-- 📧 Email : sina247re@gmail.com
-- 🌐 Portfolio : Not publicly accessible at the moment - https://github.com/Sina247/portfolio
-- 💼 Linkedin : Account temporarily unavailable due to platform limitations - https://www.linkedin.com/in/sina247/
 
 ---
 
