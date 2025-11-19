@@ -35,3 +35,28 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sina247&show_icons=true&theme=tokyonight&cache_seconds=3600)
+
+---
+
+### 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sina247?theme=catppuccinMocha&font=Kanit&ext=contest)
+
+---
+
+### ⚡ Fun Facts
+
+- 🧠 I view frontend development as a creative playground where logic and imagination converge
+- 🎮 Video games inspire me, fueling my love for designing immersive and game inspired UI elements
+- ⚡ I thrive on transforming complex designs into intuitive, smooth and interactive user experiences
+- 🖌️ I’m passionate about pixel perfect designs and crafting seamless micro interactions that delight users
+
+---
+
+>  🗨️ *"Great code isn’t just written - it’s crafted like art"*
