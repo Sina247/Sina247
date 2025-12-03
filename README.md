@@ -37,12 +37,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sina247&show_icons=true&theme=tokyonight&cache_seconds=3600)
-
----
-
 ### 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sina247?theme=catppuccinMocha&font=Kanit&ext=contest)
