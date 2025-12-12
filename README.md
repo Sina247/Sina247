@@ -49,7 +49,3 @@
 - 🎮 Video games inspire me, fueling my love for designing immersive and game inspired UI elements
 - ⚡ I thrive on transforming complex designs into intuitive, smooth and interactive user experiences
 - 🖌️ I’m passionate about pixel perfect designs and crafting seamless micro interactions that delight users
-
----
-
->  🗨️ *"Great code isn’t just written - it’s crafted like art"*
