@@ -15,10 +15,6 @@
 
 ---
 
-💡 **Feel free to explore my projects, contribute or connect - let’s build something amazing together**
-
----
-
 ### 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
