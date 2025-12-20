@@ -40,4 +40,4 @@
 
 ---
 
-☕ If you found my projects helpful, you can support me here (https://www.coffeebede.com/sina247)
+☕ If you found my projects helpful you can support me here (https://www.coffeebede.com/sina247)
