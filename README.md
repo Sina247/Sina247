@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,tailwind,vite,webpack,threejs,git,github,gitlab,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,tailwind,vite,git,github,gitlab,postman,figma" />
 </p>
 ---
 
