@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sina Ahmadi
 
-## 👩‍💻 Frontend Engineer | UI/UX Focused Developer | Interactive Web Specialist
+## 👩‍💻 Frontend Developer | UI/UX Focused Developer | Interactive Web Specialist
 
 ---
 
