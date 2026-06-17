@@ -20,9 +20,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,tailwind,vite,git,github,gitlab,postman,figma" />
 </p>
-
----
-
-### 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sina247?theme=catppuccinMocha&font=Kanit&ext=contest)
