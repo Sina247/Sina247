@@ -1,25 +1,19 @@
 ## 🚀 About Me
 
-- 🚀 Frontend Developer focused on building scalable, high-performance web applications
-- 🎯 Specialized in UI/UX engineering and design systems for modern products
-- ⚙️ Experienced with React ecosystem and scalable frontend architecture
-- 🧠 Focused on performance optimization, maintainable code and reusable components
-- 🌱 Currently deepening expertise in Next.js App Router and advanced React patterns
-- 🤝 Open to collaboration on production-level products and open-source projects
-- ✨ Passionate about transforming complex problems into clean, intuitive user experiences
-
----
+- 🎯 Frontend Developer focused on building fast, accessible, and scalable web applications with strong UX impact
+- ⚛️ Specialized in React.js & Next.js (App Router, SSR) with TypeScript for robust and maintainable architectures
+- 🎨 Strong focus on UI engineering — design systems, component-driven development, Tailwind CSS, and motion-driven interfaces
+- 🧩 Passionate about clean architecture, reusable patterns, and transforming complex problems into intuitive user experiences
+- 🌱 Continuously improving in advanced React patterns, performance optimization, and modern frontend architecture
+- 🤝 Open to collaborating on real-world products, scalable frontend systems, and open-source projects
 
 ## ⚙️ Core Focus Areas
 
-- ⚛️ React.js / Next.js (SSR, App Router, performance-driven architecture)
-- 🎨 UI Engineering with Tailwind CSS and scalable design systems
-- 🧠 TypeScript for robust and maintainable codebases
-- ⚡ Modern tooling: Vite, bundlers, and frontend optimization techniques
-- 🔗 API integration and state management (Redux / modern patterns)
-- 🧩 Clean architecture and reusable component systems
-
----
+- ⚛️ React.js / Next.js — App Router, SSR, performance-driven architecture
+- 🎨 UI Engineering — Tailwind CSS, design systems, scalable component libraries
+- 🧠 TypeScript — type-safe, maintainable, enterprise-ready codebases
+- ⚡ Modern tooling — Vite, bundlers, and frontend performance optimization
+- 🔗 Data layer — API integration, state management (Redux, TanStack Query)
 
 ## 🛠️ Tech Stack
 
