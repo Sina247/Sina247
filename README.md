@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Sina Ahmadi
-
-## 👩‍💻 Frontend Developer | UI/UX Focused Developer | Interactive Web Specialist
-
----
-
 ### 🚀 About Me
 
 - 🔍 Always seeking new challenges, growth opportunities and valuable feedback
