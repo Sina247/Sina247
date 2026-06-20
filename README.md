@@ -1,20 +1,24 @@
-<!-- Animated Header -->
-<h1 align="center">👋 Hi, I'm Sina</h1>
+<!-- HERO ANIMATION -->
+<h1 align="center">🚀 Sina | Frontend Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+experiences;Clean+code+%7C+UI%2FUX+lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+TypeScript+Developer;Building+scalable+modern+web+apps;UI%2FUX+focused+frontend+engineer;Clean+code+%7C+Performance+%7C+Design" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sina247&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🔍 Always seeking new challenges, growth opportunities and valuable feedback
-- 🤩 Passionate about creating clean, interactive, accessible websites and web apps
-- ⚙️ I’m interested in building modern, responsive and user friendly web applications
-- 🌱 I’m currently learning advanced React patterns, Web Animations and Next.js best practices
-- 💞 I’m eager to collaborate on exciting frontend projects, open source UI libraries and creative web applications
-- ✨ I love clean code, beautiful design, and transforming complex ideas into smooth and interactive user experiences
+- 🔥 Frontend Developer focused on scalable and performant web applications
+- 🎯 Strong interest in UI/UX engineering and design systems
+- ⚙️ Working with React, Next.js, TypeScript, Tailwind
+- 🌱 Always improving architecture, animations, and frontend performance
+- 💡 Love turning complex ideas into clean, usable interfaces
+- 🤝 Open to collaboration on serious frontend / open-source projects
 
 ---
 
@@ -26,16 +30,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sina247&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina247&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sina247&theme=tokyonight" />
@@ -45,18 +45,36 @@
 
 ## 🚀 Featured Projects
 
-- 🧠 CRM Dashboard — React, TypeScript, Tailwind CSS (Enterprise-style dashboard)
-- 🎨 UI Components Library — reusable modern frontend components
-- 🌐 Portfolio Website — personal developer portfolio (in progress)
+### 🧠 CRM Dashboard
+Enterprise-grade dashboard built with React + TypeScript + Tailwind
+
+### 🎨 UI Component System
+Reusable, scalable UI library with modern design patterns
+
+### 🌐 Portfolio Website
+Personal developer portfolio (Next.js) – continuously improving
 
 ---
 
-## 📌 Goals
+## 📌 Current Focus
 
-- Build production-ready frontend systems
-- Contribute to open-source UI libraries
-- Improve performance & UI/UX engineering skills
+- ⚡ Advanced React patterns & performance optimization
+- 🧩 Scalable frontend architecture
+- 🎨 Design systems & UI engineering
+- 🚀 Open-source contributions
 
 ---
 
-<p align="center">✨ Keep building. Keep improving. ✨</p>
+## 📫 Contact Me
+
+- 💼 Portfolio: Coming soon
+- 📧 Email: your-email@example.com
+- 🌍 Open to freelance & collaboration
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">✨ Build. Optimize. Repeat. ✨</p>
