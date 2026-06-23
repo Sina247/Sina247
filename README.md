@@ -9,16 +9,6 @@
 
 ---
 
-## ⚙️ Core Focus Areas
-
-- ⚛️ React / Next.js: App Router, SSR and performance-driven architecture
-- 🎨 UI Engineering: Tailwind CSS, design systems and scalable component libraries
-- 🧠 TypeScript: type-safe, maintainable and enterprise-ready codebases
-- ⚡ Modern tooling: Vite, bundlers and frontend performance optimization
-- 🔗 Data layer: API integration and state management (Redux, TanStack Query)
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
