@@ -7,8 +7,6 @@
 - 🧩 Passionate about clean architecture, reusable patterns and transforming complex problems into intuitive user experiences
 - 🎨 Strong focus on UI engineering design systems, component-driven development, Tailwind CSS and motion-driven interfaces
 
----
-
 ## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,redux,tailwind,vite,git,github,gitlab,postman,figma,three" />
